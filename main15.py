@@ -12,9 +12,9 @@ from threadGUI import ThreadGUI
 #from qt_material import *
 
 
-with open('kimlik.json') as f: #  sürekli veri basıyor. bu veriyi açıp içindeki veriyi enleme kaydet
+with open('identity.json') as f: #  sürekli veri basıyor. bu veriyi açıp içindeki veriyi enleme kaydet
     KullaniciAdi1 = json.load(f)
-with open('parola.json') as f: #  sürekli veri basıyor. bu veriyi açıp içindeki veriyi enleme kaydet
+with open('password.json') as f: #  sürekli veri basıyor. bu veriyi açıp içindeki veriyi enleme kaydet
     KullaniciParola1 = json.load(f)
 
 
