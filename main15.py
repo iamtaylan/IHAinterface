@@ -29,13 +29,16 @@ class MainWindow(QMainWindow):
         #Pencere Boyutlandırma
         QSizeGrip(self.ui.size_grip)
 
+
+        """
         #Arayüzdeki Map Bölümü
         self.ui.mapQuickWidget.setSource(QUrl("DisplayOverviewMap.qml"))
         self.ui.mapQuickWidget.show()
 
         self.ui.manuelQmap.setSource(QUrl("DisplayOverviewMap.qml"))
         self.ui.manuelQmap.show()
-
+        """
+        
         #İlk açılışta karşımıza çıkan ekran
         self.ui.ortaSagStackedWidget.setCurrentWidget(self.ui.kullaniciGirisPage)
 
