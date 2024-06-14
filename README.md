@@ -9,6 +9,7 @@
 
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
 - [Kullanım](#kullanım)
 - [İletişim](#iletişim)
 
@@ -46,6 +47,24 @@
     ```bash
     python main.py
     ```
+## Ekran Görüntüleri
+
+Aşağıda, İHAİnterface'in bazı ekran görüntülerini bulabilirsiniz:
+
+### Ana Giriş Paneli
+<img src="screenshots/LoginPage.png" alt="Ana Giriş Paneli" width="50%">
+
+### Uçuş Paneli
+<img src="screenshots/MainPage.png.png" alt="Uçuş Paneli" width="50%">
+
+### İniş Paneli
+<img src="screenshots/StopPage.png" alt="İniş Paneli" width="50%">
+
+### Manuel İniş Paneli
+<img src="screenshots/ManuelPage.png" alt="Manuel İniş Paneli" width="50%">
+
+### Ayarlar Paneli
+<img src="screenshots/SettingsPage.png" alt="Ayarlar Paneli" width="50%">
 
 ## Kullanım
 
