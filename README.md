@@ -2,6 +2,9 @@
 
 İHAİnterface, insansız hava araçları (İHA) için geliştirilen bir kontrol ve izleme arayüzüdür. Bu arayüz, kullanıcıların İHA'ları kolayca yönetmelerine ve operasyonel verileri gerçek zamanlı olarak izlemelerine olanak tanır.
 
+![Ana Sayfa](https://raw.githubusercontent.com/iamtaylan/IHAinterface/master/screenshot/MainPage.png)
+
+
 ## İçindekiler
 
 - [Özellikler](#özellikler)
