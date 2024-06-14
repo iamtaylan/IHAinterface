@@ -55,7 +55,7 @@ Aşağıda, İHAİnterface'in bazı ekran görüntülerini bulabilirsiniz:
 <img src="screenshots/LoginPage.png" alt="Ana Giriş Paneli" width="50%">
 
 ### Uçuş Paneli
-<img src="screenshots/MainPage.png.png" alt="Uçuş Paneli" width="50%">
+<img src="screenshots/MainPage.png" alt="Uçuş Paneli" width="50%">
 
 ### İniş Paneli
 <img src="screenshots/StopPage.png" alt="İniş Paneli" width="50%">
