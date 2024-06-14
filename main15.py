@@ -12,6 +12,7 @@ from threadGUI import ThreadGUI
 #from qt_material import *
 
 
+
 with open('identity.json') as f: #  sürekli veri basıyor. bu veriyi açıp içindeki veriyi enleme kaydet
     KullaniciAdi1 = json.load(f)
 with open('password.json') as f: #  sürekli veri basıyor. bu veriyi açıp içindeki veriyi enleme kaydet
