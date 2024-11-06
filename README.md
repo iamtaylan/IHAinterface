@@ -1,84 +1,85 @@
 # İHAİnterface
 
-İHAİnterface, insansız hava araçları (İHA) için geliştirilen bir kontrol ve izleme arayüzüdür. Bu arayüz, kullanıcıların İHA'ları kolayca yönetmelerine ve operasyonel verileri gerçek zamanlı olarak izlemelerine olanak tanır.
+İHAİnterface is a control and monitoring interface developed for Unmanned Aerial Vehicles (UAVs). This interface enables users to easily manage UAVs and monitor operational data in real-time.
 
-![Ana Sayfa](screenshots/MainPage.png)
+![Main Page](screenshots/MainPage.png)
 
 
-## İçindekiler
+## Table of Contents
 
-- [Özellikler](#özellikler)
-- [Kurulum](#kurulum)
-- [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Kullanım](#kullanım)
-- [İletişim](#iletişim)
+- [Features](#features)
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Contact](#contact)
 
-## Özellikler
+## Features
 
-- Gerçek zamanlı uçuş verisi izleme
-- İniş seçenekleri
-- İHA durum raporları
-- Acil durum yönetimi
+- Real-time flight data monitoring
+- Landing options
+- UAV status reports
+- Emergency management
 
-## Kurulum
+## Installation
 
-İHAİnterface'i yerel makinenize kurmak için aşağıdaki adımları izleyin:
+To install İHAİnterface on your local machine, follow these steps:
 
-1. **Depoyu klonlayın:**
+1. **Clone the repository:**
 
     ```bash
     git clone https://github.com/kullaniciadi/IHAinterface.git
     ```
 
-2. **Proje dizinine gidin:**
+2. **Navigate to the project directory:**
 
     ```bash
     cd IHAinterface
     ```
 
-3. **Gerekli bağımlılıkları yükleyin:**
+3. **Install the required dependencies:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Projeyi başlatın:**
+4. **Start the project:**
 
     ```bash
     python main.py
     ```
-## Ekran Görüntüleri
+    
+## Screenshots
 
-Aşağıda, İHAİnterface'in bazı ekran görüntülerini bulabilirsiniz:
+Below are some screenshots of the İHAİnterface:
 
-### Ana Giriş Paneli
-<img src="screenshots/LoginPage.png" alt="Ana Giriş Paneli" width="50%">
+### Main Login Panel
+<img src="screenshots/LoginPage.png" alt="Main Login Panel" width="50%">
 
-### Uçuş Paneli
-<img src="screenshots/MainPage.png" alt="Uçuş Paneli" width="50%">
+### Flight Panel
+<img src="screenshots/MainPage.png" alt="Flight Panel" width="50%">
 
-### İniş Paneli
-<img src="screenshots/StopPage.png" alt="İniş Paneli" width="50%">
+### Landing Panel
+<img src="screenshots/StopPage.png" alt="Landing Panel" width="50%">
 
-### Manuel İniş Paneli
-<img src="screenshots/ManuelPage.png" alt="Manuel İniş Paneli" width="50%">
+### Manual Landing Panel
+<img src="screenshots/ManuelPage.png" alt="Manual Landing Panel" width="50%">
 
-### Ayarlar Paneli
-<img src="screenshots/SettingsPage.png" alt="Ayarlar Paneli" width="50%">
+### Settings Panel
+<img src="screenshots/SettingsPage.png" alt="Settings Panel" width="50%">
 
-## Kullanım
+## Usage
 
-İHAİnterface'i kullanarak İHA'nızı kontrol etmek ve izlemek için aşağıdaki adımları takip edin:
+To use İHAİnterface for controlling and monitoring your UAV, follow these steps:
 
-1. **Arayüzü başlatın:**
+1. **Start the interface:**
 
     ```bash
     python main.py
     ```
 
-## İletişim
+## Contact
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bize ulaşın:
+For any questions or feedback, please reach out:
 
 - **Email:** ozturktaylan266@gmail.com
 - **GitHub:** [https://github.com/iamtaylan/IHAinterface](https://github.com/iamtaylan/IHAinterface)
