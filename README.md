@@ -1,6 +1,6 @@
-# İHAİnterface
+# UAV Interface
 
-İHAİnterface is a control and monitoring interface developed for Unmanned Aerial Vehicles (UAVs). This interface enables users to easily manage UAVs and monitor operational data in real-time.
+UAV Interface is a control and monitoring interface developed for Unmanned Aerial Vehicles (UAVs). This interface enables users to easily manage UAVs and monitor operational data in real-time.
 
 ![Main Page](screenshots/MainPage.png)
 
